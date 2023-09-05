@@ -1,6 +1,8 @@
 # React Accordion Menu App
 
 This is a simple React application that implements an Accordion menu functionality. The app allows you to create expandable sections with titles and descriptions, commonly used for FAQs or information display.
+![Untitled design (5)](https://github.com/DevShahmeer/accordion-functionality-menu/assets/108333592/828c5238-a3f3-41e2-b974-a68f382057b1)
+
 
 ## Table of Contents
 
@@ -72,8 +74,8 @@ Feel free to add more sections or modify the existing ones according to your nee
 
 - `src/`: Contains the application source code.
   - `components/`: Contains React components, including the Accordion components.
-    - `Accordion.jsx`:
-    - `AccordionPorps.jsx`: 
+    - `Accordion.jsx`: State management for active accordion item.
+    - `AccordionPorps.jsx`: Accordion item with title, description, and toggle functionality
     - `Accordion.scss`: The content container accordion menu stylesheet for styling.
   - `App.js`: The main application component.
   - `App.scss`: The main stylesheet for styling the app.

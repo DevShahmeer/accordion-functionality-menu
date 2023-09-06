@@ -72,9 +72,9 @@ Feel free to add more sections or modify the existing ones according to your nee
 
 ## Folder Structure
 
-- `src/`: Contains the application source code.
-  - `components/`: Contains React components, including the Accordion components.
-    - `Accordion.jsx`: State management for active accordion item.
+- `src/` : Contains the application source code.
+  - `components/` : Contains React components, including the Accordion components.
+    - `Accordion.jsx` : State management for active accordion item.
     - `AccordionPorps.jsx`: Accordion item with title, description, and toggle functionality
     - `Accordion.scss`: The content container accordion menu stylesheet for styling.
   - `App.js`: The main application component.
@@ -87,4 +87,4 @@ The app uses CSS for styling. It includes a minimalistic and responsive design. 
 
 ## Contributing
 
-Contributions to this project are welcome! If you find any issues or have suggestions for improvements, please open an issue or create a pull request. F
+Contributions to this project are welcome! If you find any issues or have suggestions for improvements, please open an issue or create a pull request. 
